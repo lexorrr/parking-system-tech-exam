@@ -1,1 +1,1 @@
-To install dependencies, run: npm install --legacy-peer-deps
+To install dependencies, run: **npm install --legacy-peer-deps**
